@@ -1,6 +1,6 @@
 # TurnuvaVue
 
-This template should help get you started developing with Vue 3 in Vite.
+Bu proje Turnuva düzenlemek için yapılmıştır.
 
 ## Recommended IDE Setup
 
